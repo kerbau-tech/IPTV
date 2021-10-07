@@ -75,30 +75,7 @@ http://77.247.108.32:8080/F14741/cfe49823/157558
 #EXTINF:-1, group-title="RTM SPORTS" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg",SUKAN RTM  
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bsfr.png",BEIN SPORTS 1
-http://178.18.245.114:8080/XR_XtraTv136479/974631/551
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bsfr.png",BEIN SPORTS 2
-http://178.18.245.114:8080/XR_XtraTv136479/974631/552
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS 3
-http://178.18.245.114:8080/XR_XtraTv136479/974631/553
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS MAX 4
-http://178.18.245.114:8080/XR_XtraTv136479/974631/554
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS MAX 5
-http://178.18.245.114:8080/XR_XtraTv136479/974631/555
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS MAX 6
-http://178.18.245.114:8080/XR_XtraTv136479/974631/556
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS MAX 7
-http://178.18.245.114:8080/XR_XtraTv136479/974631/557
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS MAX 8
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1188
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS MAX 9
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1187
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="https://picons.atlaspro.to/pubs/december2020/19-05-2021/beingsportnew1.png",BEIN SPORTS MAX 10
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1189
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/CANAL+SPORT.png",CANAL+ SPORT
-http://178.18.245.114:8080/XR_XtraTv136479/974631/558
-#EXTINF:-1, group-title="FRANCE SPORTS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/INFOSPORT.png",INFOSPORT+
-http://178.18.245.114:8080/XR_XtraTv136479/974631/566
+
 
 #EXTINF:-1, group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM 
 https://astro2.rastream.com/era
