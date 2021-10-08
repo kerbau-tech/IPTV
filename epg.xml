@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.2 -- Jan van Straaten" site="stadiumastro.com">
+  <channels>
+    <channel update="i" site="stadiumastro.com.E" site_id="egg/details/206/##800_160" xmltv_id="eGG">eGG</channel>
+    <channel update="i" site="stadiumastro.com.E" site_id="astro-arena/details/92/##801_160" xmltv_id="Astro Arena">Astro Arena</channel>
+    <channel update="i" site="stadiumastro.com.E" site_id="wwe-network-hd/details/194/##821_160" xmltv_id="WWE Network HD">WWE Network HD</channel>
+    <channel update="i" site="stadiumastro.com.E" site_id="astro-supersport/details/71/##831_160" xmltv_id="Astro SuperSport">Astro SuperSport</channel>
+    <channel update="i" site="stadiumastro.com.E" site_id="astro-supersport-2/details/10/##832_160" xmltv_id="Astro SuperSport 2">Astro SuperSport 2</channel>
+    <channel update="i" site="stadiumastro.com.E" site_id="astro-supersport-3/details/69/##833_160" xmltv_id="Astro SuperSport 3">Astro SuperSport 3</channel>
+    <channel update="i" site="stadiumastro.com.E" site_id="astro-supersport-4/details/163/##834_160" xmltv_id="Astro SuperSport 4">Astro SuperSport 4</channel>
+    <channel update="i" site="stadiumastro.com.E" site_id="wwe-network/details/196/##841_160" xmltv_id="WWE Network">WWE Network</channel>
+  </channels>
+</site>
