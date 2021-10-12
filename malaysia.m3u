@@ -54,6 +54,10 @@ http://210.210.155.35:80/session/0d4eba66-eb87-11eb-b7f4-b82a72d63267/dr9445/h/h
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png", THRILL
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png", SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1, group-title="KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",Cartoon Network FHD
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
