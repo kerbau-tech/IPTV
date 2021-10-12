@@ -81,6 +81,10 @@ http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157558
 #EXTINF:-1, group-title="RTM SPORTS" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg",SUKAN RTM  
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
+#EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://i.pinimg.com/originals/9b/c6/f5/9bc6f50589ec13e98fd727fb8ba7a57e.png",Bellator MMA [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://logodix.com/logo/418748.png",GLORY Kickboxing [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 #EXTINF:-1, group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM 
