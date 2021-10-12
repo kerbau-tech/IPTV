@@ -4,16 +4,18 @@
 http://iptv.jinggo-zone.ga:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 
 http://iptv.jinggo-zone.ga:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 
 http://iptv.jinggo-zone.ga:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1, group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png",Al-Hijrah 
-http://iptv.jinggo-zone.ga:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png", NTV 7
+http://iptv.jinggo-zone.ga:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV 
 http://iptv.jinggo-zone.ga:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9 
 http://iptv.jinggo-zone.ga:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1, group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png",Al-Hijrah 
+http://iptv.jinggo-zone.ga:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg",Astro Awani 
 http://iptv.jinggo-zone.ga:8278/streams/d/Awani/playlist.m3u8
