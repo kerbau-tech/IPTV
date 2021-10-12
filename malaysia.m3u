@@ -35,6 +35,8 @@ http://iptv.jinggo-zone.ga:8278/streams/d/Ceria/playlist.m3u8
 http://iptv.jinggo-zone.ga:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Box_Office_Movies_2007.png",Astro Boxoffice Tamil 
 http://iptv.jinggo-zone.ga:8278/streams/d/bollyone_pye/playlist.m3u8
+#EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png",Drama Sangat
+http://iptv.jinggo-zone.ga:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",One Hd
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png/revision/latest?cb=20190108161305",Naura
