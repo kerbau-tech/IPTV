@@ -61,6 +61,10 @@ http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 http://198.16.106.61:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1, group-title="KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png",Animax HD
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, group-title="KIDS"  tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png", ANIPLUS ID
+http://210.210.155.35:80/dr9445/h/h02/index.m3u8
+
+
 
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena 
 http://iptv.jinggo-zone.ga:8278/streams/d/arena_pye/playlist.m3u8
