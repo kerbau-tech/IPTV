@@ -68,6 +68,9 @@ http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d46102f80ed96b831a37eab7b3764f85.jpeg", Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://logos.fandom.com/wiki/My_Cinema_Asia?file=MCA_%25282019%2529.png", MY CINEMA
+http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
+
 
 #EXTINF:-1, group-title="KIDS&ANIMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",Cartoon Network FHD
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
