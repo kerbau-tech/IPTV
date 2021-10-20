@@ -116,7 +116,20 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://logodix.com/logo/418748.png",GLORY Kickboxing [HD]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
+#EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://i.imgur.com/UEvEaOK.png", Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1, group-title="OTHERS SPORTS"tvg-logo="https://i.imgur.com/qE3DDKX.png", Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1, group-title="OTHERS SPORTS"tvg-logo="https://i.imgur.com/sPnZ0d5.png", Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://i.imgur.com/S6eGs4t.png", Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://i.imgur.com/vowBrPg.png", Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://i.imgur.com/N8CJxDY.png", Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1, group-title="OTHERS SPORTS" tvg-logo="https://i.imgur.com/1gyHXhe.png", Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
 
 #EXTINF:-1, group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM 
 https://astro2.rastream.com/era
