@@ -28,7 +28,7 @@ http://iptv.jinggo-zone.ga:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",Astro Ria 
 http://iptv.jinggo-zone.ga:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna 
-http://iptv.jinggo-zone.ga:8277/streams/d/warnahd_pye/playlist.m3u8
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg",Astro Ceria 
 http://iptv.jinggo-zone.ga:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest/scale-to-width-down/200?cb=20180622071546",Astro Oasis
