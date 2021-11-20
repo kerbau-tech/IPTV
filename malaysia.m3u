@@ -1,51 +1,51 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 
-http://iptv.jinggo-zone.ga:8278/streams/d/TV1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 
-http://iptv.jinggo-zone.ga:8278/streams/d/TV2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 
-http://iptv.jinggo-zone.ga:8278/streams/d/TV3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png", NTV 7
-http://iptv.jinggo-zone.ga:8278/streams/d/Rtmntv7/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV 
-http://iptv.jinggo-zone.ga:8278/streams/d/TV8/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9 
-http://iptv.jinggo-zone.ga:8278/streams/d/TV9/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png",Al-Hijrah 
-http://iptv.jinggo-zone.ga:8278/streams/d/Alhijrah/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg",Astro Awani 
-http://iptv.jinggo-zone.ga:8278/streams/d/Awani/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg",Astro Prima 
-http://iptv.jinggo-zone.ga:8278/streams/d/Prima/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg",Astro Oasis 
-http://iptv.jinggo-zone.ga:8278/streams/d/Oasis/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg",Astro Citra 
-http://iptv.jinggo-zone.ga:8278/streams/d/Citra/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",Astro Ria 
-http://iptv.jinggo-zone.ga:8278/streams/d/ria_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna 
-http://iptv.jinggo-zone.ga:8277/streams/d/warnahd_pye/playlist.m3u8
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg",Astro Ceria 
-http://iptv.jinggo-zone.ga:8278/streams/d/Ceria/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest/scale-to-width-down/200?cb=20180622071546",Astro Oasis
-http://iptv.jinggo-zone.ga:8278/streams/d/Oasis/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Box_Office_Movies_2007.png",Astro Boxoffice Tamil 
-http://iptv.jinggo-zone.ga:8278/streams/d/bollyone_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png",Drama Sangat
-http://iptv.jinggo-zone.ga:8278/streams/d/Dsangat/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",One Hd
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png/revision/latest?cb=20190108161305",Naura
-http://iptv.jinggo-zone.ga:8278/streams/d/Naura/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Malay Sub]
-http://iptv.jinggo-zone.ga:8278/streams/d/Hbo/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO 
-http://iptv.jinggo-zone.ga:8278/streams/d/Boo/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies HD 
 http://210.210.155.35/session/5b228b10-d3ef-11ea-be11-a39dabd864dd/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",TVN HD 
@@ -98,19 +98,19 @@ http://210.210.155.35/dr9445/h/h16/02.m3u8
 
 
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena 
-http://iptv.jinggo-zone.ga:8278/streams/d/arena_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/d81ccd872d368b4930587.png",WWE Network 
-http://iptv.jinggo-zone.ga:8278/streams/d/wwe_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png",eGG Network HD 
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/146068
+http://77.247.108.32:8080/F14741/cfe49823/146068
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157556
+http://77.247.108.32:8080/F14741/cfe49823/157556
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157557
+http://77.247.108.32:8080/F14741/cfe49823/157557
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 
-http://iptv.jinggo-zone.cf:8080/F14741/cfe49823/157558
+http://77.247.108.32:8080/F14741/cfe49823/157558
 
 
 #EXTINF:-1, group-title="RTM SPORTS" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg",SUKAN RTM  
