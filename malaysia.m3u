@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTNfSgTSxdoSqnuN9FYykfM)/dm/3/x6qp375/d/live-2.m3u8#cell=lsg1
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png", NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV 
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHY_f8XNKYEglP5X7RjNmqXQ)/dm/3/x6qud17/s/live-1.m3u8#cell=lsg1
 #EXTINF:-1, group-title="LIVE TV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9 
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfKwPnM_M6z_yI9Yc52QSAs)/dm/3/x6qqja6/s/live-2.m3u8#cell=lsg1
 #EXTINF:-1, group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png",Al-Hijrah 
