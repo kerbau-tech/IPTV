@@ -81,27 +81,26 @@ http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h
 http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 #EXTINF:-1, group-title="KIDS&ANIMAX" tvg-logo="https://w7.pngwing.com/pngs/433/1007/png-transparent-gem-tv-asia-television-channel-sony-s-television-gem-printing-miscellaneous-television-angle.png" group-title="Movies" ,GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-#EXTINF:-1 xui-id="2599254" tvg-id="" tvg-name="MY: Cartoon Network HD" tvg-logo="" group-title="MALAYSIA",MY: Cartoon Network HD
+#EXTINF:-1, group-title="KIDS&ANIMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",Cartoon Network HD
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcHIp1JJz4P2OpsSl0OyzkAY
-http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcMDfipRZ-9ZfIh8wvdboyBY
-#EXTINF:-1 xui-id="2599298" tvg-id="" tvg-name="MY: Nickelodeon HD" tvg-logo="" group-title="MALAYSIA",MY: Nickelodeon HD
+#EXTINF:-1, group-title="KIDS&ANIMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon HD
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcNgtCWJUBz4lcGw5Cb2o1vE
 
 #EXTINF:-1, group-title="FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",BLUE ANT EXTREME
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcKSTe-HqWqZwFwstnB3mb7c
 #EXTINF:-1, group-title="FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",BLUE ANT ENTERTAINMENT
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcNC8Xfo-6x4vgOh5EUWq7lk
-#EXTINF:-1 xui-id="2599267" tvg-id="" tvg-name="MY: Discovery Asia" tvg-logo="" group-title="MALAYSIA",MY: Discovery Asia
+#EXTINF:-1, group-title="FAMILY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Asia
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcN_wRKqGrmtx74MKRZfN8o4
-#EXTINF:-1 xui-id="2599268" tvg-id="" tvg-name="MY: Discovery HD" tvg-logo="" group-title="MALAYSIA",MY: Discovery HD
+#EXTINF:-1, group-title="FAMILY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery HD
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcJdFiYNBkAbaQH1JZCUhvVU
-#EXTINF:-1 xui-id="2599269" tvg-id="" tvg-name="MY: Discovery Science HD" tvg-logo="" group-title="MALAYSIA",MY: Discovery Science HD
+#EXTINF:-1, group-title="FAMILY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png",Discovery Science HD
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcELe_lIaIPAn3m7tGPU5IKU
-#EXTINF:-1 xui-id="2599294" tvg-id="" tvg-name="MY: NatGeo HD" tvg-logo="" group-title="MALAYSIA",MY: NatGeo HD
+#EXTINF:-1, group-title="FAMILY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",NatGeo HD
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcPI0y0TRFzWPyPVrTNaZJk8
-#EXTINF:-1 xui-id="2599295" tvg-id="" tvg-name="MY: NatGeo People" tvg-logo="" group-title="MALAYSIA",MY: NatGeo People
+#EXTINF:-1, group-title="FAMILY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png",NatGeo People
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcEC9ZC2eYmxDdvIm0wi4nJA
-#EXTINF:-1 xui-id="2599296" tvg-id="" tvg-name="MY: NatGeo Wild HD" tvg-logo="" group-title="MALAYSIA",MY: NatGeo Wild HD
+#EXTINF:-1, group-title="FAMILY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",NatGeo Wild HD
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcHAQ8flSKryTgGBkigtC5qI
 
 
@@ -120,18 +119,17 @@ http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcNNsBoZdZcgmo-qs5EkmVVc
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcH98ZE51V1DNzQJFayt1U64
 #EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcFkwOtIcTVLw9uWOIV98STQ
-#EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 
-#EXTINF:-1 xui-id="2599248" tvg-id="" tvg-name="MY: beIN MAX" tvg-logo="" group-title="MALAYSIA",MY: beIN MAX
+#EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN MAX
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcIhzVOBhXxLFQ9sMP3knGps
-#EXTINF:-1 xui-id="2599249" tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="" group-title="MALAYSIA",MY: beIN Sports
+#EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", beIN Sports
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcN6TgZE1kgfE1jp7N4Yvt_M
-#EXTINF:-1 xui-id="2599323" tvg-id="" tvg-name="MY: beIN Sports Max 1" tvg-logo="" group-title="MALAYSIA",MY: beIN Sports Max 1
+#EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN Sports Max 1
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcHmKO_z1Ncn8bqHgSzpyCCo
-#EXTINF:-1 xui-id="2599324" tvg-id="" tvg-name="MY: beIN Sports Max 2" tvg-logo="" group-title="MALAYSIA",MY: beIN Sports Max 2
+#EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN Sports Max 2
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcLNN0HPN3PcRLNI-fgXYhTQ
-#EXTINF:-1 xui-id="2599325" tvg-id="" tvg-name="MY: beIN Sports Max 3" tvg-logo="" group-title="MALAYSIA",MY: beIN Sports Max 3
+#EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN Sports Max 3
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcMToPG_m4JMYfhPesNz2XIQ
-#EXTINF:-1 xui-id="2599326" tvg-id="" tvg-name="MY: beIN Sports Max 4" tvg-logo="" group-title="MALAYSIA",MY: beIN Sports Max 4
+#EXTINF:-1, group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN Sports Max 4
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcPzAmDdf0AmyRGAjCGKEGQo
 
 
