@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1, group-title="MOVIE" tvg-logo="http://dusktill.masuk.web.id/img/cm.png",Celestial Movies
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,11 +42,24 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1, group-title="MOVIE" tvg-logo="http://dusktill.masuk.web.id/img/kix.png",KIX
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1, group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/axn.png",AXN 2
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN 2
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",Astrox BollyOne HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#EXTINF:-1, group-title="MOVIE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png",STAR MOVIES HD
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142744
 
 =================================SPORT========================================
 
@@ -71,23 +84,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 
-#http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
-https://aqfadtv.xyz/supersport2.m3u8
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
+#https://aqfadtv.xyz/supersport2.m3u8
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/108.ts
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/manifest.mpd
-#https://aqfadtv.xyz/supersport3.m3u8
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/manifest.mpd
+https://aqfadtv.xyz/supersport3.m3u8
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 
 #http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/109.ts
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/manifest.mpd
-#https://aqfadtv.xyz/supersport4.m3u8
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/manifest.mpd
+https://aqfadtv.xyz/supersport4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
