@@ -84,8 +84,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 
-#http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
-https://aqfadtv.xyz/supersport2.m3u8
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
+#https://aqfadtv.xyz/supersport2.m3u8
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,12 +95,12 @@ https://aqfadtv.xyz/supersport2.m3u8
 https://aqfadtv.xyz/supersport3.m3u8
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 
-#http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/109.ts
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/manifest.mpd
-https://aqfadtv.xyz/supersport4.m3u8
+#https://aqfadtv.xyz/supersport4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
